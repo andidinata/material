@@ -1,0 +1,8 @@
+openpyxl
+matplotlib
+streamlit-extras
+PyPDF2
+pdf2image
+xlsxwriter
+scipy
+scikit-learn
